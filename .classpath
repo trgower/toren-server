@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/mnt/d/EclipseProjects/toren-server/libs/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/mnt/d/EclipseProjects/toren-server/libs/commons-io-2.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="/mnt/d/EclipseProjects/toren-server/libs/java-json.jar"/>
+	<classpathentry kind="lib" path="/mnt/d/EclipseProjects/toren-server/libs/mina-core-2.0.13.jar"/>
+	<classpathentry kind="lib" path="/mnt/d/EclipseProjects/toren-server/libs/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="/mnt/d/EclipseProjects/toren-server/libs/slf4j-api-1.7.14.jar"/>
+	<classpathentry kind="lib" path="/mnt/d/EclipseProjects/toren-server/libs/slf4j-simple-1.7.21.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
